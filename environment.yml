@@ -1,0 +1,10 @@
+name: ode-estimation
+channels:
+  - QuantStack
+  - conda-forge
+dependencies:
+  - xwidgets=0.17.0
+  - xplot=0.12.0
+  - xeus-cling=0.5.0
+  - bqplot=0.11.5
+  - widgetsnbextension >=3.0.0
